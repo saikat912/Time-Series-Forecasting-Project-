@@ -92,7 +92,7 @@ jupyter notebook Stock_Price_Prediction.ipynb
 ## 📊 Results
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/yourusername/results-plot.png" alt="Results Plot" width="70%"/>
+  <img src="https://github.com/saikat912/Time-Series-Forecasting-Project-/blob/7ef639f8defe94856b22a162e44935cf7a8f2753/download-2.png" alt="Results Plot" width="70%"/>
 </div>
 
 ---
