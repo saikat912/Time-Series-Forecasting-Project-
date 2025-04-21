@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/yourusername/yourproject-banner.png" alt="Project Banner" width="80%"/>
+  <img src="https://github.com/saikat912/Time-Series-Forecasting-Project-/blob/b354183836230e513b3050487d4e50388a8f3c14/download-3.png" alt="Project Banner" width="80%"/>
 </div>
 
 ---
