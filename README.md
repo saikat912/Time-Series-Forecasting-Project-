@@ -47,7 +47,7 @@ This project leverages a decade of stock market data, robust time series models,
 ## 🎬 Demo
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/yourusername/forecast-demo.gif" alt="Forecast Demo" width="70%"/>
+  <img src="https://github.com/saikat912/Time-Series-Forecasting-Project-/blob/693901a759f73916c93926b5e9723e6f7633045e/download-10.png" alt="Forecast Demo" width="70%"/>
 </div>
 
 ---
